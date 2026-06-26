@@ -1,0 +1,30 @@
+.div1{
+    display:block;
+    background-color:brown;
+    width:200px;
+    height:300px;
+    margin:100px;
+    padding:100px;
+
+}
+
+.div2{
+    display:inline;
+    background-color:rgb(131, 9, 246);
+    color:white;
+    /* width:200px;
+    height:300px; */
+    margin:100px;
+    padding:100px;
+    /* display:none; */
+}
+
+.div3{
+    display:inline-block;
+    background-color:blue;
+    width:200px;
+    height:300px;
+    margin:100px;
+    padding:100px;
+    display:none;
+}

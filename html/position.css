@@ -1,0 +1,38 @@
+div{
+    display:inline-block;
+}
+
+
+.container{
+    padding:20px;
+    margin:20px;
+    width:80vw;
+    height:200vh;
+    background-color:grey;
+}
+
+.item{
+    margin:20px;
+    padding:20px;
+    height:300px;
+    width:200px;
+    background-color:rgb(89, 49, 127);
+    border:2px dotted brown;
+}
+
+.a{
+    position:relative;
+    top:20px;
+    left:200px;
+}
+
+.c{
+    position:fixed;
+    top:0;
+    left:10%;
+}
+
+.d{
+    position:sticky;
+    top:2%;
+}

@@ -1,0 +1,34 @@
+.header{
+    background-color:aquamarine;
+    text-align:center;
+}
+.pimage{
+    border-radius:40%;
+}
+.li1{
+    color:red;
+}
+.li2{
+    color:blue;
+}
+.li3{
+    color:green;
+}
+.li4{
+    color:orange;
+}
+.li5{
+    color:purple;
+}
+form{
+    background-color:lightgrey;
+    padding:20px;
+    border-radius:10px;
+    width:300px;
+}
+.about{
+    background-color:lightyellow;
+    padding:20px 80px;
+    border-radius:10px;
+    
+}

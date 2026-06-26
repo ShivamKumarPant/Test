@@ -1,0 +1,33 @@
+.container{
+    display:flex;
+    flex-direction:column;
+    /* justify-content:center; */
+    justify-content:space-around;
+    align-items:center;
+    gap:20px;
+    background-color:rgb(73, 119, 159);
+    height:100vh;
+}
+
+.item{
+    background-color:rgb(240, 30, 30);
+    width:150px;
+    height:200px;
+    padding:10pxpx;
+    border:4px solid black;
+    /* margin:20px auto; */
+    text-align:center;
+    font-family:'Courier New', Courier, monospace;
+    overflow-wrap:break-word;
+    border-radius:10px;
+    box-shadow:5px 10px 10px rgb(0,0,0,0.6);
+    transition:box-shadow 0.3s ease-in;
+}
+
+.item:hover{
+    box-shadow:5px 10px 10px rgb(0,0,0,0.75);
+}
+
+.item p{
+    font-weight:700;
+}
